@@ -1,0 +1,6 @@
+n1 = int(input("digite um numero/n"))
+n2 = int(input("digite um numero/n"))
+n3 = int(input("digite um numero/n"))
+n4 = int(input("digite um numero/n"))
+n5 = int(input("digite um numero/n"))
+print((n1+n2+n3+n4+n5)/5)

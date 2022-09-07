@@ -1,0 +1,103 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#cima{
+    text-align: center;
+    height: 110px;
+    font-size: 30px;
+    line-height: 110px;
+    background-color: rgb(180, 255, 143);
+    margin: 20px;
+    border-radius: 30px;
+}
+img {
+    width: 270px;
+    border-radius: 130px;
+}
+.tudo{
+    width: 60%;
+    margin: 0 all;
+    padding: 30px;
+    
+    border: solid 10px rgb(0, 0, 0)
+}
+.linha{
+    clear: both;
+    text-indent: 30px;
+}
+.direita {
+    width: 60%;
+    height: 340px;
+    float: right;
+    text-indent: 20px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.esquerda {
+    width: 40%;
+    height: 340px;
+    float: left;
+}
+.experiencia{
+    width: 60%;
+    height: 150px;
+    float: right;
+
+    text-indent: 30px;
+}
+.span{
+    font-weight: bolder;
+}
+p{
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+h3{
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+h2{
+    margin-bottom: 0px;
+}
+hr{
+    margin-bottom: 15px;
+    margin-top: 5px;
+    border-color: rgb(180, 255, 143);
+    margin-right: 5px;
+    
+}
+#objetivos{
+    text-align: left;
+}
+#formação{
+    text-align: left;
+    height: 200px;
+}
+#coluna1{
+    margin-top: -15px;
+    margin-right: 10px;
+    float: left;
+    height: 400px;
+    width: 49%;
+    text-align: left;
+}
+#coluna2{
+    float: left;
+    width: 0.4%;
+    border-radius: 10%;
+    height: 400px;
+    background-color: rgb(180, 255, 143);
+}
+#coluna3{
+    margin-top: -15px;
+    margin-left: 10px;
+    text-align: left;
+    width: 48%;
+    height: 400px;
+    float: right;
+    text-indent: 0px;   
+}
+
+
+
+

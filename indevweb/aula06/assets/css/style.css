@@ -1,0 +1,12 @@
+.tudo{
+    width: 1080px;
+    border: 5px #000;
+}
+#cima{
+    background-color: rgb(66, 76, 149);
+    height: 100px;
+}
+#espaco{
+    width: 50px;
+    background-color: rgb(170, 163, 186);
+}
