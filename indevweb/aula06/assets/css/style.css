@@ -1,12 +1,67 @@
 .tudo{
-    width: 1080px;
+    width: 100%;
     border: 5px #000;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(209, 209, 210);
 }
 #cima{
     background-color: rgb(66, 76, 149);
     height: 100px;
+    width: 100%;
+    padding: 20px 50px 10px 50px;
+
 }
 #espaco{
     width: 50px;
-    background-color: rgb(170, 163, 186);
+    background-color: rgb(255, 255, 255);
+}
+#h1TituloCima{
+    
+}
+.divLinha{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+#classificacao{
+    width: 50%;
+    background-color: rgb(255, 255, 255);    
+}
+.table1{
+    width: 100%;
+    margin-left: 20px;
+}
+#goleadores{
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+}
+#tableGol{
+    width: 100%;
+    margin-left: 20px;
+    text-align: left;
+}
+#divJogos{
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+}
+#tableJogos{
+    width: 95%;
+    margin-left: 20px;
+    text-align: left;
+}
+.titulos{
+    text-align: left;
+    margin-left: 20px;
+}
+.jogador55{
+    width: 70%;
+    text-align: left;
+}
+.number{
+    width: 10%;
+    text-align: left;
+}
+th{
+    color: rgb(114, 114, 114);
+    font-size: 12px;
 }
